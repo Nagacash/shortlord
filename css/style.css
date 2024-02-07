@@ -1726,14 +1726,12 @@ font-size: 18px;
 }
 
 .video {
-  padding-right: 54px;
-  padding-left: 54px;
+ 
   margin-top: -50px;
   
     display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 50px;
+  gap: 20px;
 }
 
 .clips {
